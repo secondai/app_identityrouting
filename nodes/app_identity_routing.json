@@ -1,0 +1,14 @@
+{
+  "type": "app_base:Qmtesting",
+  "name": "app_identity_routing",
+  "data": {
+    "appId": "identityrouting",
+    "name": "Identity and Routing",
+    "release": "production",
+    "version": 1,
+    "releaseNotes": "....",
+    "owner": "secondai",
+    "defaultBranch": "master",
+    "repo": "app_identityrouting"
+  }
+}
